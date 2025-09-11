@@ -1,5 +1,5 @@
-title: cesare straffelini
-logo: /assets/img/logo.png
+title: Cesare Straffelini
+logo: /assets/img/223287416.png
 show_downloads: false
 description: ""
 google_analytics:
@@ -7,10 +7,10 @@ theme: jekyll-theme-minimal
 
 # Biographic information
 avatar           : "profile.png"
-name             : "cesare straffelini"
+name             : "Cesare Straffelini"
 pronouns         : "he/him"  
-bio              : "PhD student at the Universities of Trento & Barcelona"
-location         : "Gran Via de les <br> Corts Catalanes 585 <br>08007 Barcelona"
+bio              : "PhD student in Trento & Barcelona"
+location         : "Gran Via de les Corts Catalanes 585 <br>08007 Barcelona"
 employer         : "Universitat de Barcelona"
 uri              : # URL
 email            : "straffelini@ub.edu" 
