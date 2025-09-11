@@ -33,7 +33,7 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
       <h4 class="year">2025-07-07</h4>
       <div class="timeline-events">
         <div class="timeline-item">
-          <p> <i>Higher Solovay Models</i>, at the <a href="https://www.colloquium.co/lc2025">Logic Colloquium 2025</a> in Wien
+          <p> <i>Higher Solovay Models</i>, at the <a href="https://www.colloquium.co/lc2025">Logic Colloquium 2025</a> in Wien.</p>
         </div>      
       </div>
     </div>
