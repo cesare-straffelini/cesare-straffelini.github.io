@@ -2,11 +2,11 @@
 layout: default
 ---
 
-I am a first-year PhD student in Theoretical Computer Science at <a href="https://www.irif.fr">IRIF</a>, under the supervision of <a href="https://samvangool.net">Sam van Gool</a>. My main interest is categorical logic and duality theory: a central objective of my research project is to understand the relationship between ultracategories and polyadic spaces as semantic duals of first-order theories, with applications to topos theory and intuitionistic model theory. 
+I am a PhD student in Set Theory at the Universities of Trento and Barcelona, under the supervision of <a href="https://en.wikipedia.org/wiki/Joan_Bagaria">Joan Bagaria i Pigrau</a>. The topic of my PhD research is Generic Absoluteness.
 
-Before that, I have obtained a Master's degree in Mathematics at the <a href="https://www.unimi.it/">Università degli Studi di Milano Statale</a>, but I spent the second year abroad at the <a href="https://www.uva.nl/en">University of Amsterdam</a> with a foot in the <a href="https://elo.mastermath.nl">MasterMath</a> program and the other in the <a href ="https://msclogic.illc.uva.nl">Master of Logic</a>. My Master's thesis, written at the <a href = "https://www.illc.uva.nl">ILLC</a> under the supervision of <a href="https://staff.fnwi.uva.nl/b.vandenberg3/">Benno van den Berg</a>, is available <a href="files/master-thesis.pdf">here</a>, and it won the <a href="https://www.ailalogica.it/2025/06/13/vincitori-premio-32-edizione-2025/">2025 AILA 3+2 Award</a> for the best Master's thesis in Mathematical Logic.
+Previously, I have obtained a Bachelor's degree and a Master's degree in Mathematics at the <a href="https://www.unitn.it/it">University of Trento</a>. My Bachelor's degree supervisor was professor <a href="https://webapps.unitn.it/du/it/Persona/PER0003680/Curriculum">Stefano Baratella</a>, while my Master's degree supervisor was professor <a href="https://en.wikipedia.org/wiki/Joan_Bagaria">Joan Bagaria i Pigrau</a>. Both theses were on the topic of the Axiom of Determinacy, with two different approaches: in my Bachelor's thesis I studied the consequences of AD on the reals, while in my Master's thesis I studied the proofs of consistency of AD from large cardinals.
 
-At IRIF, I co-organize the <a href="https://www.irif.fr/portraits/queerif">QueeRIF</a> meetings and the <a href="https://www.irif.fr/seminaires/topos/index">topos theory reading group</a>.
+At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com/home">Jeffrey Bergfalk</a>) the Marvelous Set Theory Reading Course.
 
 <h3>Preprints</h3>
 
