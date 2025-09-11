@@ -1,4 +1,4 @@
-title: Umberto Tarantino
+title: cesare straffelini
 logo: /assets/img/logo.png
 show_downloads: false
 description: ""
@@ -7,18 +7,18 @@ theme: jekyll-theme-minimal
 
 # Biographic information
 avatar           : "profile.png"
-name             : "Umberto Tarantino"
-pronouns         : "he/they"  
-bio              : "PhD student at IRIF"
-location         : "Office 4060 <br>8 place Aurélie Nemours <br>75013 Paris"
-employer         : "Université Paris Cité"
+name             : "cesare straffelini"
+pronouns         : "he/him"  
+bio              : "PhD student at the Universities of Trento & Barcelona"
+location         : "Gran Via de les <br> Corts Catalanes 585 <br>08007 Barcelona"
+employer         : "Universitat de Barcelona"
 uri              : # URL
-email            : "umberto.tarantino@irif.fr" 
+email            : "straffelini@ub.edu" 
 
 # Academic websites
-arxiv            : "https://arxiv.org/search/?searchtype=author&query=Tarantino%2C+U"
-googlescholar    : "https://scholar.google.com/citations?user=jEFOH84AAAAJ&hl=en"
-researchgate     : "https://www.researchgate.net/profile/Umberto-Tarantino-3"
+arxiv            : "https://arxiv.org/search/math?searchtype=author&query=Straffelini,+C"
+googlescholar    : # "https://scholar.google.com/citations?user=jEFOH84AAAAJ&hl=en"
+researchgate     : # "https://www.researchgate.net/profile/Umberto-Tarantino-3"
 scopus           : # URL
   
 
