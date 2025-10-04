@@ -16,6 +16,10 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
    <div class="timeline-year">
       <h4 class="year">2025</h4>
       <div class="timeline-events">
+       <div class="timeline-item">
+          <p> Modernisme <i>realizzato: il</i> Palau de la Música Catalana<br>joint work with Roger Asensi i Arranz.</p>
+        </div>
+
         <div class="timeline-item">
           <p> <i><a href="https://arxiv.org/abs/2507.19129">Higher Solovay Models</a></i> <br>joint work with <a href="https://it.wikipedia.org/wiki/Sebastiano_Thei">Sebastiano Thei</a>.</p>
         </div>
