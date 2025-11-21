@@ -38,7 +38,9 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
         <div class="timeline-item">
           <p> <i>The Inevitability of Determinacy</i>, at the <a href="https://selflarinc.wordpress.com/">SELFLARINC Workshop</a> in Cluj-Napoca.</p>
         </div>      
-      </div>
+      </div>     
+   </div>
+   <div class="timeline-year">
       <h4 class="year">2025-07-07</h4>
       <div class="timeline-events">
         <div class="timeline-item">
