@@ -16,8 +16,11 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
    <div class="timeline-year">
       <h4 class="year">2025</h4>
       <div class="timeline-events">
+          <div class="timeline-item">
+          <p> <i>Projective Determinacy and Generic Absoluteness</i><br> (part of my PhD thesis work).</p>
+        </div>
          <div class="timeline-item">
-          <p> <i>Simultaneos Sequential Compactness</i><br> joint work with Sirio Resteghini.</p>
+          <p> <i><a href="https://arxiv.org/abs/2512.15593">Simultaneos Sequential Compactness</a></i><br> joint work with Sirio Resteghini.</p>
         </div>
        <div class="timeline-item">
           <p> Modernisme <i>realizzato: il</i> Palau de la Música Catalana<br>(to appear in the volume <i>Musica e Architettura 2</i>, published by LIM)<br> joint work with Roger Asensi i Arranz.</p>
