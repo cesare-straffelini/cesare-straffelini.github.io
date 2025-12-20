@@ -17,7 +17,7 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
       <h4 class="year">2025</h4>
       <div class="timeline-events">
           <div class="timeline-item">
-          <p> <i>Projective Determinacy and Generic Absoluteness</i><br> (part of my PhD thesis work).</p>
+          <p> <i><a href="https://arxiv.org/abs/2512.16330">Projective Determinacy and Generic Absoluteness</a></i><br> (part of my PhD thesis work).</p>
         </div>
          <div class="timeline-item">
           <p> <i><a href="https://arxiv.org/abs/2512.15593">Simultaneos Sequential Compactness</a></i><br> joint work with Sirio Resteghini.</p>
