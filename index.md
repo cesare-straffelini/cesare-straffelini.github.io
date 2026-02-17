@@ -2,8 +2,6 @@
 layout: default
 ---
 
-(expert of the empty set)
-
 I am a PhD student in Set Theory at the Universities of Trento and Barcelona, under the supervision of <a href="https://en.wikipedia.org/wiki/Joan_Bagaria">Joan Bagaria i Pigrau</a>. The topic of my PhD research is Generic Absoluteness: which sentences are preserved by generic extensions of the universe?
 
 Previously, I have obtained a Bachelor's degree and a Master's degree in Mathematics at the <a href="https://www.unitn.it/it">University of Trento</a>. My Bachelor's degree supervisor was professor <a href="https://webapps.unitn.it/du/it/Persona/PER0003680/Curriculum">Stefano Baratella</a>, while my Master's degree supervisor was professor <a href="https://en.wikipedia.org/wiki/Joan_Bagaria">Joan Bagaria i Pigrau</a>.
