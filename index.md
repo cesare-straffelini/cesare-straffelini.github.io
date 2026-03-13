@@ -22,6 +22,14 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
         </div>
        </div> 
        </div>
+   <div class="timeline-year">
+      <h4 class="year">2025</h4>
+      <div class="timeline-events">
+         <div class="timeline-item">
+             <p> Modernisme <i>realizzato: il</i> Palau de la Música Catalana<br>joint work with Roger Asensi i Arranz<br>to appear in the volume <i>Musica e Architettura 2</i>, published by LIM.</p>
+         </div>
+      </div>
+   </div>
 </div>
 
 <h3>Preprints</h3>
@@ -40,9 +48,6 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
       <div class="timeline-events">
          <div class="timeline-item">
           <p> <i><a href="https://arxiv.org/abs/2512.15593">Simultaneos Sequential Compactness</a></i><br> joint work with Sirio Resteghini.</p>
-        </div>
-       <div class="timeline-item">
-          <p> Modernisme <i>realizzato: il</i> Palau de la Música Catalana<br>(to appear in the volume <i>Musica e Architettura 2</i>, published by LIM)<br> joint work with Roger Asensi i Arranz.</p>
         </div>
         <div class="timeline-item">
           <p> <i><a href="https://arxiv.org/abs/2507.19129">Higher Solovay Models</a></i> <br>joint work with <a href="https://it.wikipedia.org/wiki/Sebastiano_Thei">Sebastiano Thei</a>.</p>
