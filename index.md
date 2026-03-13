@@ -33,7 +33,7 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
           <div class="timeline-item">
           <p> <i>The Inevitability of Determinacy</i><br> joint work with <a href="https://cscambler.github.io/">Christopher Scambler</a>.</p>
         </div>
-      
+      </div> 
        </div>
    <div class="timeline-year">    
       <h4 class="year">2025</h4>
