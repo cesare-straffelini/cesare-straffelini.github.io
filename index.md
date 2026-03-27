@@ -60,6 +60,14 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
 
 <div class="timeline">
    <div class="timeline-year">
+       <h4 class="year">2026-06-24</h4>
+      <div class="timeline-events">
+        <div class="timeline-item">
+          <p> <i>[TBA]</i> <br>invited talk at the <a href="https://cfors.org/workshop-indeterminacy-and-the-philosophy-of-mathematics/">Indeterminacy and the Philosophy of Mathematics Workshop</a> in Oslo.</p>
+        </div>      
+      </div>     
+   </div>
+   <div class="timeline-year">
        <h4 class="year">2025-12-05</h4>
       <div class="timeline-events">
         <div class="timeline-item">
