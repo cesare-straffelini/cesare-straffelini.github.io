@@ -41,8 +41,7 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
           <div class="timeline-item">
           <p> <i>Set-theoretic Relativity</i><br> joint work with <a href="https://cscambler.github.io/">Christopher Scambler</a>.</p>
       </div>
-      </div> 
-      <div class="timeline-events">
+      </div>
           <div class="timeline-item">
           <p> <i>The Inevitability of Determinacy</i><br> joint work with <a href="https://cscambler.github.io/">Christopher Scambler</a>.</p>
         </div> 
