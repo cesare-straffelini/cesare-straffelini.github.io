@@ -39,6 +39,11 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
       <h4 class="year">2026</h4>
       <div class="timeline-events">
           <div class="timeline-item">
+          <p> <i>Set-theoretic Relativity</i><br> joint work with <a href="https://cscambler.github.io/">Christopher Scambler</a>.</p>
+        </div>
+      </div> 
+      <div class="timeline-events">
+          <div class="timeline-item">
           <p> <i>The Inevitability of Determinacy</i><br> joint work with <a href="https://cscambler.github.io/">Christopher Scambler</a>.</p>
         </div>
       </div> 
@@ -64,6 +69,22 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
       <div class="timeline-events">
         <div class="timeline-item">
           <p> <i>[TBA]</i> <br>invited talk at the <a href="https://cfors.org/workshop-indeterminacy-and-the-philosophy-of-mathematics/">Indeterminacy and the Philosophy of Mathematics Workshop</a> in Oslo.</p>
+        </div>      
+      </div>     
+   </div>
+   <div class="timeline-year">
+       <h4 class="year">2026-05-??</h4>
+      <div class="timeline-events">
+        <div class="timeline-item">
+          <p> <i>Terminal Absoluteness of Collapse Forcings</i> <br>contributed talk at the <a href="https://www.helsinki.fi/en/conferences/european-set-theory-conference">European Set Theory Conference</a> in Helsinki.</p>
+        </div>      
+      </div>     
+   </div>
+    <div class="timeline-year">
+       <h4 class="year">2026-04-22</h4>
+      <div class="timeline-events">
+        <div class="timeline-item">
+          <p> <i>[TBA]</i> <br>invited talk at the <a href="https://sites.google.com/view/back-and-forth-lectures/">Back-and-forth Lectures</a> in Torino.</p>
         </div>      
       </div>     
    </div>
