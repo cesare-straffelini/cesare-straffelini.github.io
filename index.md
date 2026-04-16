@@ -82,7 +82,7 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
        <h4 class="year">2026-04-22</h4>
       <div class="timeline-events">
         <div class="timeline-item">
-          <p> <i>[TBA]</i> <br>invited talk at the <a href="https://sites.google.com/view/back-and-forth-lectures/">Back-and-forth Lectures</a> in Torino.</p>
+          <p> <i>Relativismo in Matematica? Il paradosso di Skolem</i> <br>invited talk at the <a href="https://sites.google.com/view/back-and-forth-lectures/">Back-and-forth Lectures</a> in Torino.</p>
         </div>      
       </div>     
    </div>
