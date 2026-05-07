@@ -41,7 +41,6 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
           <div class="timeline-item">
           <p> <i>Terminal Absoluteness of Collapse Forcings</i><br> to become part of my PhD thesis.</p>
       </div>
-      <div class="timeline-events">
           <div class="timeline-item">
           <p> <i>Set-theoretic Relativity</i><br> joint work with <a href="https://cscambler.github.io/">Christopher Scambler</a>.</p>
       </div>
