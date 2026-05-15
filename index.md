@@ -74,7 +74,7 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
       </div>     
    </div>
    <div class="timeline-year">
-       <h4 class="year">2026-05-??</h4>
+       <h4 class="year">2026-05-20</h4>
       <div class="timeline-events">
         <div class="timeline-item">
           <p> <i>Terminal Absoluteness of Collapse Forcings</i> <br>contributed talk at the <a href="https://www.helsinki.fi/en/conferences/european-set-theory-conference">European Set Theory Conference</a> in Helsinki.</p>
