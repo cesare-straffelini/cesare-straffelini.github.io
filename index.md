@@ -38,9 +38,6 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
    <div class="timeline-year">
       <h4 class="year">2026</h4>
       <div class="timeline-events">
-         <div class="timeline-item">
-          <p> <i>What is a Large Cardinal?</i><br> joint work with <a href="https://www.claudioternullo.com/">Claudio Ternullo</a>.</p>
-      </div>
           <div class="timeline-item">
           <p> <i>Terminal Absoluteness of Collapse Forcings</i><br> to become part of my PhD thesis.</p>
       </div>
