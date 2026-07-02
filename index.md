@@ -10,18 +10,23 @@ Both theses were on the topic of the Axiom of Determinacy, with two different ap
 
 At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com/home">Jeffrey Bergfalk</a>) the Marvelous Set Theory Reading Course, an informal reading course where we study set theory together. I also lend a hand when needed for teaching the courses in Basic Set Theory, Combinatorial Set Theory and Models of Set Theory.
 
-<h3>Articles Accepted for Publication</h3>
+<h3>Published Articles</h3>
 
 <div class="timeline">
    <div class="timeline-year">
       <h4 class="year">2026</h4>
       <div class="timeline-events">
           <div class="timeline-item">
-          <p> <i>Minimal Banach-Tarski Decompositions</i> <br>joint work with <a href="https://webapps.unitn.it/du/it/Persona/PER0208829">Kilian Zambanini</a><br>
-          to be published on <a href="https://www.impan.pl/en/publishing-house/journals-and-series/fundamenta-mathematicae">Fundamenta Mathematicae</a>.</p>
+          <p> <i>Minimal Banach-Tarski decompositions</i> <br>joint work with <a href="https://webapps.unitn.it/du/it/Persona/PER0208829">Kilian Zambanini</a><br>
+          published in <a href="https://www.impan.pl/en/publishing-house/journals-and-series/fundamenta-mathematicae">Fundamenta Mathematicae</a>: https://doi.org/10.4064/fm250713-19-2.</p>
         </div>
        </div> 
        </div>
+</div>
+
+<h3>Articles Accepted for Publication</h3>
+
+<div class="timeline">
    <div class="timeline-year">
       <h4 class="year">2025</h4>
       <div class="timeline-events">
@@ -65,11 +70,19 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
 <h3>Talks</h3>
 
 <div class="timeline">
+      <div class="timeline-year">
+       <h4 class="year">2026-09-??</h4>
+      <div class="timeline-events">
+        <div class="timeline-item">
+          <p> <i>Minimal Banach-Tarski decompositions</i> <br>contributed talk at the <a href="https://aila2026.github.io/">XXIX Incontro di Logica AILA</a> in Roma.</p>
+        </div>      
+      </div>     
+   </div>
    <div class="timeline-year">
        <h4 class="year">2026-06-24</h4>
       <div class="timeline-events">
         <div class="timeline-item">
-          <p> <i>[TBA]</i> <br>invited talk at the <a href="https://cfors.org/workshop-indeterminacy-and-the-philosophy-of-mathematics/">Indeterminacy and the Philosophy of Mathematics Workshop</a> in Oslo.</p>
+          <p> <i>Indeterminacy or Relativity?</i> <br>invited talk at the <a href="https://cfors.org/workshop-indeterminacy-and-the-philosophy-of-mathematics/">Indeterminacy and the Philosophy of Mathematics Workshop</a> in Oslo.</p>
         </div>      
       </div>     
    </div>
