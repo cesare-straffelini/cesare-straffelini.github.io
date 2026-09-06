@@ -28,6 +28,12 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
 
 <div class="timeline">
    <div class="timeline-year">
+      <h4 class="year">2026</h4>
+         <div class="timeline-item">
+          <p> <i>Set-theoretic Relativity</i><br> joint work with <a href="https://cscambler.github.io/">Christopher Scambler</a><br>to appear in the Review of Symbolic Logic.</p>
+      </div>
+      </div>
+   <div class="timeline-year">
       <h4 class="year">2025</h4>
       <div class="timeline-events">
          <div class="timeline-item">
@@ -45,10 +51,7 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
       <div class="timeline-events">
           <div class="timeline-item">
           <p> <i>Terminal Absoluteness of Collapse Forcings</i><br> to become part of my PhD thesis.</p>
-      </div>
-          <div class="timeline-item">
-          <p> <i>Set-theoretic Relativity</i><br> joint work with <a href="https://cscambler.github.io/">Christopher Scambler</a>.</p>
-      </div>
+          </div>
           <div class="timeline-item">
           <p> <i>The Inevitability of Determinacy</i><br> joint work with <a href="https://cscambler.github.io/">Christopher Scambler</a>.</p>
         </div> 
