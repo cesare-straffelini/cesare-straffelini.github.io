@@ -29,8 +29,10 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
 <div class="timeline">
    <div class="timeline-year">
       <h4 class="year">2026</h4>
+      <div class="timeline-events">
          <div class="timeline-item">
           <p> <i>Set-theoretic Relativity</i><br> joint work with <a href="https://cscambler.github.io/">Christopher Scambler</a><br>to appear in the Review of Symbolic Logic.</p>
+      </div>
       </div>
       </div>
    <div class="timeline-year">
