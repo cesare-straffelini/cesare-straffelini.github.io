@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a PhD student in Set Theory at the Universities of Trento and Barcelona, under the supervision of <a href="https://en.wikipedia.org/wiki/Joan_Bagaria">Joan Bagaria i Pigrau</a>. The topic of my PhD research is Generic Absoluteness: which sentences are preserved by generic extensions of the universe?
+I am a PhD student in Set Theory and Philosophy of Set Theory at the Universities of Trento and Barcelona, under the supervision of <a href="https://en.wikipedia.org/wiki/Joan_Bagaria">Joan Bagaria i Pigrau</a>. The topic of my PhD research is Generic Absoluteness: which sentences are preserved by generic extensions of the universe?
 
 Previously, I have obtained a Bachelor's degree and a Master's degree in Mathematics at the <a href="https://www.unitn.it/it">University of Trento</a>. My Bachelor's degree supervisor was professor <a href="https://webapps.unitn.it/du/it/Persona/PER0003680/Curriculum">Stefano Baratella</a>, while my Master's degree supervisor was professor <a href="https://en.wikipedia.org/wiki/Joan_Bagaria">Joan Bagaria i Pigrau</a>.
 
@@ -71,7 +71,7 @@ At the UB, I co-organise (together with <a href="https://www.jeffreybergfalk.com
 
 <div class="timeline">
       <div class="timeline-year">
-       <h4 class="year">2026-09-??</h4>
+       <h4 class="year">2026-09-15</h4>
       <div class="timeline-events">
         <div class="timeline-item">
           <p> <i>Minimal Banach-Tarski decompositions</i> <br>contributed talk at the <a href="https://aila2026.github.io/">XXIX Incontro di Logica AILA</a> in Roma.</p>
